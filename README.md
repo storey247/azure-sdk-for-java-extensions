@@ -8,8 +8,8 @@ Using the Java SDK for Azure? This library consists of handy extensions and help
 
 ```xml
 <dependency>
-  <groupId>com.github.storey247/applicationinsights-java-helpers</groupId>
-  <artifactId>com.storey247.applicationinsights-java-helpers</artifactId>
+  <groupId>com.github.storey247/azure-sdk-for-java-extensions</groupId>
+  <artifactId>com.storey247.azure-sdk-for-java-extensions</artifactId>
   <version>0.1.0-snaphot</version>
 </dependency>
 ```
